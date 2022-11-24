@@ -1,3 +1,6 @@
+# Why fork ?
+I'm inspired by idea of working in jupyter with neovim, and I will work for adding editing & running features to this plugin!
+
 # 🪐 Jupyter-Nvim
 
 Read jupyter notebooks in neovim
